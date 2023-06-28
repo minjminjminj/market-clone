@@ -1,5 +1,5 @@
 main {
-  padding: 30px 20px;
+  padding: 0px 20px 80px 20px;
 }
 
 .item-list {
@@ -35,6 +35,10 @@ main {
 
 .item-list__info div {
   margin-bottom: 10px;
+}
+
+.item-list__info--title {
+  font-size: larger;
 }
 
 .item-list__info--meta {

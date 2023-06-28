@@ -14,12 +14,12 @@
 }
 
 .info-bar__time {
-  font-size: 12px;
+  font-size: 18px;
   font-weight: bold;
 }
 
 .info-bar__icons img {
-  width: 15px;
+  width: 20px;
 }
 
 /* menu-bar */
@@ -37,6 +37,10 @@
   justify-content: center;
   align-items: center;
   font-weight: bold;
+}
+
+.menu-bar__location--name {
+  font-size: 24px;
 }
 
 .menu-bar__location--icon {
@@ -57,7 +61,7 @@
 }
 
 .menu-bar__icons img {
-  width: 20px;
+  width: 30px;
   margin-left: 5px;
 }
 
